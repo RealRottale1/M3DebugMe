@@ -31,7 +31,7 @@ alert("3 times 4 " + "equals " + v1 * v2); // Equals should be a string
             yellow.style.backgroundColor = "yellow"
 
             // GREEN
-            const purple = document.getElementById("green")
+            const green = document.getElementById("green") // changed variable name to green
             green.innerHTML = "GREEN"
             green.style.backgroundColor = "green"
 
